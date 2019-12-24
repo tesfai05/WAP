@@ -1,0 +1,13 @@
+body{
+    background: url('../images/index.jpg') no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.search-form {
+	background: rgba(0, 0, 0, 0.5);
+	padding: 40px;
+	border-radius: 6px;
+}
+
